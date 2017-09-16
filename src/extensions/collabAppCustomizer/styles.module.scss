@@ -1,0 +1,40 @@
+.myheader{
+    display: block;
+    background-color:#151515;
+    border-top: 1px solid #fff;
+    color: #fff;
+    min-height: 40px;
+
+    .suguknewsleftpanel{
+        display: block;
+        padding-left:20px;
+        float: left;
+        width: 410px;
+        
+    }
+    .date{
+        display: inline-block;
+        width:200px;
+        padding:10px;
+    }
+    .newstitle{
+        padding:10px;
+        padding-left:20px;
+        padding-right:20px;
+        background-color: #071c5a;
+        display: inline-block;
+    }
+    .sugukscrolling{
+        display: block;
+        overflow: hidden;
+        padding:10px;
+    }
+    .cycle_slideshow{
+        display:block;
+        width:100%;
+    }
+    .cycle_slideshow div{
+        display:block;
+        width:100%;
+    }
+}
