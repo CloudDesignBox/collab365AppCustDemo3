@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.2.0",
+    "libraryName": "collab-365-app-cust-demo-3",
+    "libraryId": "9f716ad9-f671-4605-b701-6eac36e3aa01",
+    "environment": "spo"
+  }
+}

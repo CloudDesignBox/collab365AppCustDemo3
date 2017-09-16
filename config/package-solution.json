@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "collab-365-app-cust-demo-3-client-side-solution",
+    "id": "9f716ad9-f671-4605-b701-6eac36e3aa01",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": false
+  },
+  "paths": {
+    "zippedPackage": "solution/collab-365-app-cust-demo-3.sppkg"
+  }
+}
